@@ -1,9 +1,4 @@
-professors: [
-	{ id: '1', nom: 'Pep Bea', moduls: [] },
-	{ id: '2', nom: 'Carles Gonzalez',  moduls: [] },
-	{ id: '3', nom: 'Gines Plazas', moduls: [] },
-],
-moduls: [
+ [
 	{ id: 'm1dam', nom: 'Sistemes Informatics', hores: 6, tipus:'classe', ocupat:false },
 	{ id: 'm2dam', nom: 'Base de dades', hores: 6, tipus:'classe', ocupat:false  },
 	{ id: 'm3dam', nom: 'Programació', hores: 7, tipus:'classe', ocupat:false  },
