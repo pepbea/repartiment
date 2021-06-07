@@ -1,5 +1,11 @@
- [
-	{ id: 'm1dam', nom: 'Sistemes Informatics', hores: 6, tipus:'classe', ocupat:false },
+{
+  "professors": [
+	{ id: '1', nom: 'Pep Bea', horesOcupades: '0', moduls: [] },
+	{ id: '2', nom: 'Carles Gonzalez', horesOcupades: '0', moduls: [] },
+	{ id: '3', nom: 'Gines Plazas', horesOcupades: '0', moduls: [] },
+  ],
+  "moduls":[
+  	{ id: 'm1dam', nom: 'Sistemes Informatics', hores: 6, tipus:'classe', ocupat:false },
 	{ id: 'm2dam', nom: 'Base de dades', hores: 6, tipus:'classe', ocupat:false  },
 	{ id: 'm3dam', nom: 'Programació', hores: 7, tipus:'classe', ocupat:false  },
 	{ id: 'm4dam', nom: 'Llenguatge de marques', hores: 3, tipus:'classe', ocupat:false  },
@@ -13,4 +19,7 @@
 	{ id: 'm00dam2', nom: 'Mòdul Dual', hores: 3, tipus:'classe', ocupat:false  },
 	{ id: 'm00dam3', nom: 'Mòdul Dual', hores: 3, tipus:'classe', ocupat:false  },
 	{ id: 'cp', nom: 'Coordinació Pedagògica', hores: 8, tipus:'coordinacio', ocupat:false  },
-]
+  ] 
+} 
+
+
