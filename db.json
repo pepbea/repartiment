@@ -8,7 +8,7 @@
   	{ "id": "m1dam", "nom": "Sistemes Informatics", "hores": 6, "tipus":"classe", "ocupat":false },
 	{ "id": "m2dam", "nom": "Base de dades", "hores": 6, "tipus":"classe", "ocupat":false  },
 	{ "id": "m3dam", "nom": "Programació", "hores": 7, "tipus":"classe", "ocupat":false  },
-	{ "id": "m4dam", "nom": "Llenguatge de marques", hores: 3, "tipus":"classe", "ocupat":false  },
+	{ "id": "m4dam", "nom": "Llenguatge de marques", "hores": 3, "tipus":"classe", "ocupat":false  },
 	{ "id": "m5dam", "nom": "Entorns de desenvolupament", "hores": 2, "tipus":"classe", "ocupat":false  },
 	{ "id": "m6dam", "nom": "Accés a dades", "hores": 3, "tipus":"classe", "ocupat":false  },
 	{ "id": "m7dam", "nom": "Disseny interfícies", "hores": 2, "tipus":"classe", "ocupat":false  },
